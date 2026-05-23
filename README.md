@@ -2,13 +2,13 @@
 
 ### ID посылок:
 
-A1m - Реализация STRING MERGE SORT     - 375756101
+**A1m - Реализация STRING MERGE SORT**     - 375756101
 
-A1q - Реализация STRING QUICK SORT     - 375758602
+**A1q - Реализация STRING QUICK SORT**     - 375758602
 
-A1r - Реализация MSB RADIX SORT        - 375760027
+**A1r - Реализация MSB RADIX SORT**        - 375760027
 
-A1rq - Реализация MSB RADIX+QUICK SORT - 375760102
+**A1rq - Реализация MSB RADIX+QUICK SORT** - 375760102
 
 ### Обозначения
 
